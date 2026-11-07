@@ -65,11 +65,13 @@ PRTG for infrastructure monitoring and Wazuh for centralized security monitoring
 `VMware ESXi` `vCenter` `TrueNAS` `Ansible` `Veeam` `PRTG` `Wazuh` `Linux` `DNS` `NTP`
 
 ---
+## 🗺️ The Big Picture
 
-## 📸 Behind the scenes
+Before diving into the details, here's a look at the infrastructure we worked on.
 
-Technical diagrams, selected screenshots and project documentation will be added here.
+![Private Cloud Architecture](private-cloud-architecture.png)
 
+*One infrastructure, multiple components working together: virtualization, automation, storage, monitoring and security.*
 ---
 
 ### A little note 💙
