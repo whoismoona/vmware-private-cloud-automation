@@ -37,7 +37,7 @@ The main objectives documented in the project were:
 
 The infrastructure combines virtualization hosts, centralized management, shared storage, automation and monitoring components.
 
-See the [global architecture diagram](../assets/architecture/global-architecture.png).
+[View the global architecture diagram](../private-cloud-architecture.png)
 
 ## 👩‍💻 What made this experience special
 
